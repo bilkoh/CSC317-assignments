@@ -52,7 +52,7 @@ footer {
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&family=Titillium+Web:ital,wght@0,200;0,300;0,400;0,600;0,700;0,900;1,200;1,300;1,400;1,600;1,700&display=swap");
 
 body {
-  font-size: 0.625rem;
+  font-size: 1rem;
   font-family: "Crimson Text", serif;
   line-height: 1.15rem;
   letter-spacing: 0.025rem;
@@ -102,7 +102,7 @@ a:active {
 ul,
 ol {
   list-style-type: square;
-  padding-left: 1.25rem;
+  padding-left: 2.25rem;
 }
 
 ol {
@@ -110,7 +110,7 @@ ol {
 }
 
 li {
-  line-height: 1.15rem;
+  line-height: 2.15rem;
 }
 h1::before {
   text-decoration: dotted underline;
@@ -127,7 +127,7 @@ nav ul li {
   padding: 1rem;
   text-align: center;
   font-family: "Titillium Web", sans-serif;
-  letter-spacing: 0.25rem;
+  letter-spacing: 0.15rem;
   font-size: 1rem;
   font-weight: bold;
 }
