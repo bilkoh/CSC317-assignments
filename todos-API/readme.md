@@ -1,3 +1,7 @@
+# Set up sqlite backend first
+Run the following command for a fresh todos db
+`node init_db.js`
+
 # Todos API 
 
 deliverables to Canvas: A PDF file that has a link to a github repo of yours
